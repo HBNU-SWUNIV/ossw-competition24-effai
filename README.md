@@ -2,11 +2,6 @@
 
 # 국립한밭대학교 이파이팀
 
-|[김장환](https://github.com/wodeyuzhou)|[신은호](https://github.com/neungho1)|[이유진](https://github.com/runth)|[진경은](https://github.com/JinKyungEun000)|
-|:---:|:---:|:---:|:--:|
-|<img src="https://github.com/user-attachments/assets/2aa22ddc-f059-43be-b66e-7215e9068d59" width="100px" height="100px"/>|<img src="https://github.com/user-attachments/assets/2aa22ddc-f059-43be-b66e-7215e9068d59" width="100px" height="100px"/>|<img src="https://github.com/user-attachments/assets/2aa22ddc-f059-43be-b66e-7215e9068d59" width="100px" height="100px"/>|<img src="https://github.com/user-attachments/assets/2aa22ddc-f059-43be-b66e-7215e9068d59" width="100px" height="100px"/>|
-|팀장 / 웹서버|객체 인식 모델|프론트엔드|데이터셋 구축|
-
 ## 웹사이트 주소
 - https://evcharge-status.vercel.app (Vercel CI/CD repo: https://github.com/wodeyuzhou/evcharge-status)
 
@@ -14,6 +9,11 @@
 - **엣지 디바이스 기반 실시간 전기차 충전소 자리 인식 시스템**
   
 ## 팀 구성 
+|[김장환](https://github.com/wodeyuzhou)|[신은호](https://github.com/neungho1)|[이유진](https://github.com/runth)|[진경은](https://github.com/JinKyungEun000)|
+|:---:|:---:|:---:|:--:|
+|<img src="https://github.com/user-attachments/assets/2aa22ddc-f059-43be-b66e-7215e9068d59" width="100px" height="100px"/>|<img src="https://github.com/user-attachments/assets/2aa22ddc-f059-43be-b66e-7215e9068d59" width="100px" height="100px"/>|<img src="https://github.com/user-attachments/assets/2aa22ddc-f059-43be-b66e-7215e9068d59" width="100px" height="100px"/>|<img src="https://github.com/user-attachments/assets/2aa22ddc-f059-43be-b66e-7215e9068d59" width="100px" height="100px"/>|
+|팀장 / 웹서버|객체 인식 모델|프론트엔드|데이터셋 구축|
+
 - 20192390 김장환 중국어과/인공지능소프트웨어학과
 - 20221055 신은호 인공지능소프트웨어학과
 - 20221063 이유진 인공지능소프트웨어학과
