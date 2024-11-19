@@ -22,9 +22,9 @@
 ## Project Background
   - ### 개요
     <p>
-    <img width="390" alt="image" src="https://github.com/user-attachments/assets/c7db1c89-ddab-45b3-bbbf-d6c46d9ac50f">
+    <img width="370" alt="image" src="https://github.com/user-attachments/assets/c7db1c89-ddab-45b3-bbbf-d6c46d9ac50f">
     &nbsp;
-    <img width="415" alt="image" src="https://github.com/user-attachments/assets/22d64a10-9600-4a05-b58c-9f7f2b3ef896">
+    <img width="400" alt="image" src="https://github.com/user-attachments/assets/22d64a10-9600-4a05-b58c-9f7f2b3ef896">
     </p>
 
     엣지 디바이스 환경에서 **자체적으로 객체 인식을 수행**하여 실시간으로 전기차 충전소의 주차 가능 여부와 사용중인 차량의 주차된 시간을 모니터링하고, </br>
@@ -42,9 +42,9 @@
 ## 프로젝트 내용
   - ### 구현 내용 - 웹페이지 및 모바일 환경에서의 충전소 자리 알람 기능 구현
     <p>
-    <img width="640" alt="homepage" src="https://github.com/user-attachments/assets/4677bbb8-8ca8-4213-82ca-95e1072242b3">
+    <img width="620" alt="homepage" src="https://github.com/user-attachments/assets/4677bbb8-8ca8-4213-82ca-95e1072242b3">
     &nbsp;
-    <img width="165" alt="homepage" src="https://github.com/user-attachments/assets/5975d8ca-6864-423a-8f4c-ba14f7377e1f">
+    <img width="160" alt="homepage" src="https://github.com/user-attachments/assets/5975d8ca-6864-423a-8f4c-ba14f7377e1f">
     </p>
 
   - ### 시스템 구조 - 라즈베리파이 환경에서 실시간 객체 인식 수행
