@@ -56,7 +56,7 @@
 
 - ### 개발 필요성 및 목적
     https://www.khan.co.kr/economy/auto/article/202405261450001 </br>
-    https://www.hankyung.com/article/202312083584g
+    https://www.hankyung.com/article/202312083584g </br>
     https://newautopost.co.kr/close-up-coverage/article/86742/
 
 - ### Ultralytics YOLOv8
